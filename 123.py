@@ -8,5 +8,5 @@ t.width(5)
 for x in range(6):
     t.forward(200)
     t.left(60)
-
+#ghghghgh
 #time.sleep(10)
