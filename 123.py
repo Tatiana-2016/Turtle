@@ -1,7 +1,7 @@
 import turtle
 import time
 t = turtle.Turtle()
-t.color("red")
+t.color("green")
 t.width(5)
 
 for x in range(6):
